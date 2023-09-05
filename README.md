@@ -1,6 +1,6 @@
-## django를 공부한 것을 기록하는 repository
+## django로 개발한 엡을 기록하는 repository
 
-①helloworldapp
+①helloworldapp(app)
 
 ②todoapp
 
