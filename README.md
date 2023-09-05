@@ -1,4 +1,4 @@
-### ネットや教材で学習した内容を載せてくリポジトリ
+### django를 공부한 것을 기록하는 repository
 
 ①helloworldapp
 
