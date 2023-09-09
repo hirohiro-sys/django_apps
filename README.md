@@ -2,7 +2,7 @@
 
 ①helloworldapp(app)
 
-②todoapp
+②todoapp(django-todo-app)
 
 ③blogapp
 
