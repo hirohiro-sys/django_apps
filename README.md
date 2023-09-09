@@ -1,10 +1,10 @@
 ## django로 개발한 엡을 기록하는 repository(branch마다 나눔)
 
-①helloworldapp(app)
+①helloworldapp(main branch)
 
-②todoapp(django-todo-app)
+②todoapp(master branch)
 
-③blogapp
+③blogapp()
 
 →miniportforio제작
 
